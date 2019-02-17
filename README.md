@@ -21,7 +21,6 @@
 
 При регистрации пользователь в ответ получает уникальный AUTH_KEY, который он может далее использовать для 3-его API 'Создание заказа', передав его в параметрах. Авторизация позволяет узнать уже зарегестрированному пользователю его уникальный ключ.
 
-
 **Репозиторий состот из:**
 
 Название файла  | Содержание файл
@@ -34,3 +33,6 @@ ApiGetListOfProductsController.php  | Контроллер get_list_of_products 
 ApiGetProductByIdController.php  | Контроллер get_product_by_id API
 ApiMakeAnOrderController.php | Контроллер make_an_order API
 ApiRegistrationController.php | Контроллер registration API
+
+**Документация API***
+https://i.imgur.com/y7HttTS.png
