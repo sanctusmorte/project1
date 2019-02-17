@@ -34,7 +34,7 @@ ApiGetProductByIdController.php  | Контроллер get_product_by_id API
 ApiMakeAnOrderController.php | Контроллер make_an_order API
 ApiRegistrationController.php | Контроллер registration API
 
-**Документация API***
+**Документация API**
 
-![alt text](https://i.imgur.com/y7HttTS.png)
+![alt text](https://i.imgur.com/ckQGqNE.png)
 
