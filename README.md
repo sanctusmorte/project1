@@ -27,5 +27,10 @@
 Название файла  | Содержание файл
 ----------------|---------------------
 public_html     | Исходник проекта
-LaunchSctiptController.php | Контроллер, основной скрипт парсера
+mysql.sql | База данных
 README.md  | Этот файл README
+ApiAuthorizationController.php  | Контроллер authorization API
+ApiGetListOfProductsController.php  | Контроллер get_list_of_products API
+ApiGetProductByIdController.php  | Контроллер get_product_by_id API
+ApiMakeAnOrderController.php | Контроллер make_an_order API
+ApiRegistrationController.php | Контроллер registration API
