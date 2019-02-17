@@ -35,4 +35,6 @@ ApiMakeAnOrderController.php | Контроллер make_an_order API
 ApiRegistrationController.php | Контроллер registration API
 
 **Документация API***
-https://i.imgur.com/y7HttTS.png
+
+![alt text](https://i.imgur.com/y7HttTS.png)
+
